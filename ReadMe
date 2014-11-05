@@ -1,0 +1,12 @@
+Description: This is a simple framework developed on libqglviewer2.5.3 and qt 4.8 for displaying 3D object. Any complex GUI can be developed on this basic framwork.
+Author: sway
+Time: 11/05/2014
+Organization: Institute of Automation, Chinese Academy of Science
+
+
+==============================================================================
+simpleViewer.h :define a Viewer class for viewing 3D objects
+
+simpleViewer.cpp: implement related class memembers of class Viewer
+
+main.cpp: run the class
